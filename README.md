@@ -17,7 +17,6 @@ What things you need to install the software and how to install them:
 - Pandas
 
 You can install these packages using pip. Run the following command:
-
 ```bash
 pip install networkx matplotlib numpy pandas
 
